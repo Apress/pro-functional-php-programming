@@ -1,0 +1,16 @@
+int(20)
+int(30)
+int(60)
+int(60)
+object(my_class)#1 (1) {
+  ["value":"my_class":private]=>
+  int(60)
+}
+object(my_class)#1 (1) {
+  ["value":"my_class":private]=>
+  int(60)
+}
+object(my_class)#2 (1) {
+  ["value":"my_class":private]=>
+  int(-1)
+}

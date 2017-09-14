@@ -1,0 +1,6 @@
+PHP Warning:  Constants may only evaluate to scalar values or arrays in constant-func.php on line 8
+Double 2 is 4
+PHP Fatal error:  Uncaught Error: Call to undefined function DOUBLE() in constant-func.php:12
+Stack trace:
+#0 {main}
+  thrown in constant-func.php on line 12

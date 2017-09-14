@@ -1,0 +1,15 @@
+Array
+(
+    [0] => kiwi smoothie
+    [1] => vinegar crumble
+    [2] => egg ice cream
+    [3] => cod tart
+    [4] => beef pie
+)
+Array
+(
+    [1] => vinegar crumble
+    [3] => cod tart
+    [4] => beef pie
+)
+vinegar crumble

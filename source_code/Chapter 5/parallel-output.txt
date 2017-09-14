@@ -1,0 +1,29 @@
+Array
+(
+    [beard] => 76
+    [bright] => 43
+    [buried] => 43
+    [bred] => 36
+    [breed] => 35
+    [bird] => 34
+    [bride] => 30
+    [broad] => 15
+    [bread] => 15
+    [board] => 15
+)
+Launched 4 clients
+Array
+(
+    [beard] => 76
+    [bright] => 43
+    [buried] => 43
+    [bred] => 36
+    [breed] => 35
+    [bird] => 34
+    [bride] => 30
+    [broad] => 15
+    [bread] => 15
+    [board] => 15
+)
+string(24) "Single : 48.808692932129"
+string(25) "Parallel : 25.10250711441"

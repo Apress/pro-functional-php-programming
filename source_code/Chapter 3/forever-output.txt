@@ -1,0 +1,1 @@
+PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 262144 bytes) in forever.php on line 6

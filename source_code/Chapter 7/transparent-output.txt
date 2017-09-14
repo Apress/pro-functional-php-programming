@@ -1,0 +1,3 @@
+Impure Logging : 7
+Impure Logging : 21
+int(21)

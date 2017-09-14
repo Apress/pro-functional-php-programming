@@ -1,0 +1,30 @@
+
+# By default the "namenode" in Hadoop is in safemode so
+# we can't work with the file system. Let's turn that off.
+
+hadoop dfsadmin -safemode leave
+
+# We'll make a directory to put our data in
+
+hadoop fs -mkdir shakespeare
+
+# We can list the files to see where we're at
+
+hadoop fs -ls /user/hadoop/
+
+# The quickest way to get data onto the server is to copy and
+# paste it into a text file, so open one, copy the contents
+# from your local machine and paste it in.
+
+nano all_shakespeare.txt
+
+# The file we just created exists only on the VM's ordinary
+# file system.
+
+# Let's copy it into the HDFS directory we created above.
+
+hadoop fs -copyFromLocal all_shakespeare.txt shakespeare/
+
+# If we want to check the contents, we can "cat" the file
+
+hadoop fs -cat shakespeare/all_shakespeare.txt

@@ -1,0 +1,13 @@
+get_foods return closure called
+get_types return closure called
+get_count return closure called
+int(3)
+get_foods return closure called
+get_types return closure called
+get_count return closure called
+NULL
+get_foods return closure called
+NULL
+get_foods return closure called
+get_types return closure called
+NULL

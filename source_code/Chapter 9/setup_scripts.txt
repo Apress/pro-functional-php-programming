@@ -1,0 +1,28 @@
+# Create a directory for our scripts
+
+mkdir scripts
+
+# Edit the files and copy/paste the scripts into them
+
+nano scripts/map_job.php
+
+nano scripts/reduce_job.php
+
+# Make sure both we and Hadoop can run them by adding
+# execute permissions for everyone. If you install Hadoop on
+# another system, depending on the sensitivity of your system
+# and scripts, and which user you run Hadoop as, you may want
+# to change who has execute permission here.
+
+chmod a+x scripts/*.php
+
+# Add the functions file. This is "require"'d by the scripts
+# and not exectued directly, so does not need execute permission
+
+nano scripts/job_functions.php
+
+# We can test that it all works by using the Standard Streams
+# that are available to all shell scripts, using redirection
+# and piping.
+
+php scripts/map_job.php < all_shakespeare.txt | php scripts/reduce_job.php

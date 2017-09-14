@@ -1,0 +1,12 @@
+string(7) "chicken"
+string(7) "tractor"
+string(8) "vehicles"
+string(7) "tractor"
+string(8) "vehicles"
+PHP Notice:  Undefined variable: get_thing in variable.php on line 41
+NULL
+string(7) "tractor"
+PHP Fatal error:  Uncaught Error: Call to undefined function people() in variable.php:49
+Stack trace:
+#0 {main}
+  thrown in variable.php on line 49

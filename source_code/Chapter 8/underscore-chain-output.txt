@@ -1,0 +1,14 @@
+string(16) "CHEESE - CHEDDAR"
+string(12) "MILK - WHOLE"
+string(12) "APPLES - RED"
+string(14) "GRAPES - WHITE"
+array(4) {
+  ["Grapes"]=>
+  string(14) "GRAPES - WHITE"
+  ["Cheese"]=>
+  string(16) "CHEESE - CHEDDAR"
+  ["Apples"]=>
+  string(12) "APPLES - RED"
+  ["Milk"]=>
+  string(12) "MILK - WHOLE"
+}

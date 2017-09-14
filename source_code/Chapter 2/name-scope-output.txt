@@ -1,0 +1,5 @@
+string(1) "a"
+string(6) "a -> b"
+string(1) "c"
+string(6) "c -> d"
+string(11) "c -> d -> e"

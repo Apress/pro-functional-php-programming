@@ -1,0 +1,24 @@
+Array
+(
+    [Meat type] => Lamb
+    [Chili hotness] => mild
+    [Quantity to make] => 2 portions
+    [Extras] => Naan bread
+    [Eat in or take out] => Eat in
+)
+Array
+(
+    [Meat type] => Chicken
+    [Chili hotness] => hot
+    [Quantity to make] => 1 portion
+    [Extras] => Poppadoms
+    [Eat in or take out] => Take out
+)
+Array
+(
+    [Meat type] => Chicken
+    [Chili hotness] => Extra mild
+    [Quantity to make] => Bucket full
+    [Extras] => Diet cola
+    [Eat in or take out] => Eat in
+)

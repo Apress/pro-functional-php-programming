@@ -1,0 +1,32 @@
+Array
+(
+    [0] => apple
+)
+Array
+(
+    [1] => bacon
+    [2] => beef
+)
+Array
+(
+    [2] => cheddar
+)
+Array
+(
+    [0] => Array
+        (
+            [0] => apple
+        )
+
+    [1] => Array
+        (
+            [1] => bacon
+            [2] => beef
+        )
+
+    [2] => Array
+        (
+            [2] => cheddar
+        )
+
+)

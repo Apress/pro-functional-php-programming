@@ -1,0 +1,6 @@
+string(1) "a"
+string(6) "a -> b"
+PHP Fatal error:  Uncaught Error: Call to undefined function d() in name-scope2.php:38
+Stack trace:
+#0 {main}
+  thrown in name-scope2.php on line 38

@@ -1,0 +1,4 @@
+PHP Fatal error:  Uncaught Error: Unsupported operand types in foreach.php:11
+Stack trace:
+#0 {main}
+  thrown in foreach.php on line 11

@@ -1,0 +1,21 @@
+Array
+(
+    [0] => Array
+        (
+            [Item] => APPLE PIE
+            [Price] => 4.99
+        )
+
+    [1] => Array
+        (
+            [Item] => STRAWBERRY ICE CREAM
+            [Price] => 2.22
+        )
+
+    [2] => Array
+        (
+            [Item] => CHOCOLATE AND STRAWBERRY CAKE
+            [Price] => Special: 5.99
+        )
+
+)

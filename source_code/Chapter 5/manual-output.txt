@@ -1,0 +1,3 @@
+1st function : 0.0007178783416748 secs, 40 bytes
+2nd function : 0.0016269683837891 secs, 32768 bytes
+Peak memory usage : 392504 bytes

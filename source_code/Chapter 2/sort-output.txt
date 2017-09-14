@@ -1,0 +1,18 @@
+Array
+(
+    [0] => Asparagus
+    [1] => Beetroot
+    [2] => Carrot
+)
+Array
+(
+    [0] => Carrot
+    [1] => Beetroot
+    [2] => Asparagus
+)
+Array
+(
+    [0] => Asparagus
+    [1] => Beetroot
+    [2] => Carrot
+)

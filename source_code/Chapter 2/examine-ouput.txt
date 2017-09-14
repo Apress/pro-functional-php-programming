@@ -1,0 +1,40 @@
+print_r output :
+
+Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => apple
+    [3] => banana
+    [4] => Closure Object
+        (
+            [parameter] => Array
+                (
+                    [$data] => <required>
+                )
+
+        )
+
+)
+
+
+ var_dump output :
+
+array(5) {
+  [0]=>
+  int(1)
+  [1]=>
+  int(2)
+  [2]=>
+  string(5) "apple"
+  [3]=>
+  string(6) "banana"
+  [4]=>
+  object(Closure)#1 (1) {
+    ["parameter"]=>
+    array(1) {
+      ["$data"]=>
+      string(10) "<required>"
+    }
+  }
+}

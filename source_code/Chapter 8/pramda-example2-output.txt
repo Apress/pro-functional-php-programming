@@ -1,0 +1,31 @@
+array(11) {
+  [0]=>
+  string(6) "Apples"
+  [1]=>
+  string(6) "Pastry"
+  [2]=>
+  string(5) "Magic"
+  [3]=>
+  string(12) "Strawberries"
+  [4]=>
+  string(4) "Milk"
+  [5]=>
+  string(5) "Sugar"
+  [6]=>
+  string(9) "Chocolate"
+  [7]=>
+  string(4) "Cake"
+  [8]=>
+  string(6) "Cheese"
+  [9]=>
+  string(5) "Bread"
+  [10]=>
+  string(6) "Butter"
+}
+int(28)
+Array
+(
+    [Chocolate and Strawberry Cake] => 5.99
+    [Apple Pie] => 4.99
+    [Strawberry Ice Cream] => 2.22
+)

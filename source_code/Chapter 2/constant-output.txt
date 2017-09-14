@@ -1,0 +1,8 @@
+int(4)
+int(6)
+string(6) "orange"
+PHP Warning:  Constants may only evaluate to scalar values or arrays in constant.php on line 15
+PHP Fatal error:  Uncaught Error: Call to undefined function ADD_NINE() in constant.php:17
+Stack trace:
+#0 {main}
+  thrown in constant.php on line 17

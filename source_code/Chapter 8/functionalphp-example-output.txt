@@ -1,0 +1,41 @@
+Desserts:
+Array
+(
+    [0] => Apple Pie
+    [1] => Strawberry Ice Cream
+    [2] => Chocolate and Strawberry Cake
+)
+Main Courses:
+Array
+(
+    [3] => Cheese Toasty
+)
+Expensive Items:
+Array
+(
+    [2] => Chocolate and Strawberry Cake
+    [0] => Apple Pie
+    [3] => Cheese Toasty
+)
+New menu:
+Array
+(
+    [2] => Array
+        (
+            [Item] => Chocolate and Strawberry Cake
+            [Price] => 5.99
+        )
+
+    [0] => Array
+        (
+            [Item] => Apple Pie
+            [Price] => 4.99
+        )
+
+    [3] => Array
+        (
+            [Item] => Cheese Toasty
+            [Price] => 3.45
+        )
+
+)

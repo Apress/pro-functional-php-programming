@@ -1,0 +1,27 @@
+object(Closure)#1 (1) {
+  ["parameter"]=>
+  array(1) {
+    ["$a"]=>
+    string(10) "<required>"
+  }
+}
+int(8)
+int(16)
+int(20)
+array(4) {
+  [0]=>
+  int(2)
+  [1]=>
+  int(4)
+  [2]=>
+  int(6)
+  [3]=>
+  int(8)
+}
+int(40)
+int(20)
+PHP Notice:  Undefined variable: double in call_anon.php on line 39
+PHP Fatal error:  Uncaught Error: Function name must be a string in call_anon.php:39
+Stack trace:
+#0 {main}
+  thrown in call_anon.php on line 39

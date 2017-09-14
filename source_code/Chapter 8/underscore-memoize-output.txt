@@ -1,0 +1,48 @@
+Array
+(
+    [Param] => 6*
+    [Result] => 8
+    [Time] => 2.5
+)
+Array
+(
+    [Param] => 6
+    [Result] => 8
+    [Time] => 2.5
+)
+Array
+(
+    [Param] => 6*
+    [Result] => 8
+    [Time] => 2.5
+)
+Array
+(
+    [Param] => 6
+    [Result] => 8
+    [Time] => 0
+)
+Array
+(
+    [Param] => 10
+    [Result] => 55
+    [Time] => 17.72
+)
+Array
+(
+    [Param] => 11
+    [Result] => 89
+    [Time] => 28.73
+)
+Array
+(
+    [Param] => 8
+    [Result] => 21
+    [Time] => 6.71
+)
+Array
+(
+    [Param] => 8
+    [Result] => 21
+    [Time] => 0
+)

@@ -1,0 +1,10 @@
+Array
+(
+    [0] =>     Enter DON PEDRO, DON JOHN, LEONATO, FRIAR FRANCIS, CLAUDIO, BENEDICK, HERO, BEATRICE, and Attendants
+
+    [1] =>     Sweet Hero! She is wronged, she is slandered, she is undone.
+
+    [2] =>     Think you in your soul the Count Claudio hath wronged Hero?
+
+)
+Time taken : 1.4434311389923

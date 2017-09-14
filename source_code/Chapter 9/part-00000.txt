@@ -1,0 +1,13 @@
+Array
+(
+    [beard] => 76
+    [buried] => 43
+    [bright] => 43
+    [bred] => 36
+    [breed] => 35
+    [bird] => 34
+    [bride] => 30
+    [board] => 15
+    [broad] => 15
+    [bread] => 15
+)

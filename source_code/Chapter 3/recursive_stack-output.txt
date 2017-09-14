@@ -1,0 +1,15 @@
+---
+#0  sum(4) called at [recursive_stack.php:17]
+---
+#0  sum(3) called at [recursive_stack.php:13]
+#1  sum(4) called at [recursive_stack.php:17]
+---
+#0  sum(2) called at [recursive_stack.php:13]
+#1  sum(3) called at [recursive_stack.php:13]
+#2  sum(4) called at [recursive_stack.php:17]
+---
+#0  sum(1) called at [recursive_stack.php:13]
+#1  sum(2) called at [recursive_stack.php:13]
+#2  sum(3) called at [recursive_stack.php:13]
+#3  sum(4) called at [recursive_stack.php:17]
+The result is : 10

@@ -1,0 +1,8 @@
+int(5)
+Caught : Argument 2 passed to {closure}() must be of the type integer, string given, called in types3.php on line 36
+Caught : Argument 2 passed to {closure}() must be of the type integer, float given, called in types3.php on line 36
+Caught : Argument 2 passed to {closure}() must be of the type integer, boolean given, called in types3.php on line 36
+PHP Warning:  Division by zero in types3.php on line 13
+Caught : intdiv() expects parameter 2 to be integer, null given
+Caught : Return value of {closure}() must be of the type integer, float returned
+int(2)

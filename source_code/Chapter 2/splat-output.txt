@@ -1,0 +1,48 @@
+string(6) "apples"
+array(3) {
+  [0]=>
+  string(5) "bacon"
+  [1]=>
+  string(7) "carrots"
+  [2]=>
+  string(8) "doughnut"
+}
+array(4) {
+  [0]=>
+  string(3) "red"
+  [1]=>
+  string(6) "yellow"
+  [2]=>
+  string(4) "pink"
+  [3]=>
+  string(5) "green"
+}
+array(1) {
+  [0]=>
+  array(3) {
+    [0]=>
+    string(6) "purple"
+    [1]=>
+    string(6) "orange"
+    [2]=>
+    string(4) "blue"
+  }
+}
+array(4) {
+  [0]=>
+  string(3) "red"
+  [1]=>
+  string(6) "yellow"
+  [2]=>
+  string(4) "pink"
+  [3]=>
+  string(5) "green"
+}
+array(3) {
+  [0]=>
+  string(6) "purple"
+  [1]=>
+  string(6) "orange"
+  [2]=>
+  string(4) "blue"
+}

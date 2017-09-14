@@ -1,0 +1,2 @@
+Hello
+cat: /tmp/myMemoryDrive/test.txt: No such file or directory

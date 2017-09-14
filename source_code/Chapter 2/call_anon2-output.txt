@@ -1,0 +1,13 @@
+8
+Function says Hello There
+Banana backwards is ananaB
+array(4) {
+  [0]=>
+  int(2)
+  [1]=>
+  int(4)
+  [2]=>
+  int(6)
+  [3]=>
+  int(8)
+}

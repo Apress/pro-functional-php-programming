@@ -1,0 +1,4 @@
+#0  add_h_tags(TESTING) called at [backtrace.php:12]
+#1  make_headline(testing) called at [backtrace.php:6]
+#2  prepare_text(testing) called at [backtrace.php:30]
+<h1>TESTING</h1>

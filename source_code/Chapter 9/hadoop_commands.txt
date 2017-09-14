@@ -1,0 +1,40 @@
+
+# We need to know the location of the Hadoop streaming service .jar
+# file. The path I've used below works at the time of writing,
+# but if the version or path have changed when you try you'll need
+# to locate it yourself. To do that, install and run the locate command.
+
+sudo apt-get install locate
+
+sudo updatedb
+
+locate hadoop-streaming
+
+# Once you've got the location, we're ready to run hadoop. The following
+# command is split over several lines using the \ character, make sure
+# you include all parts when you run it.
+
+#The first line tells Hadoop what type of application we want to run.
+
+# The -input line specifies the HDFS directory where our data resides
+# (it will assume all files in that directory contain input data).
+
+# The -output line specifies an HDFS output directory for the results, it
+# must not already exist.
+
+# The -mapper and -reduce lines specify
+# our map and reduce scripts. Use the full directory path/filename.
+
+hadoop jar /opt/bitnami/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.8.0.jar \
+-input shakespeare \
+-output job_output \
+-mapper /home/bitnami/scripts/map_job.php \
+-reducer /home/bitnami/scripts/reduce_job.php
+
+# Once Hadoop has run, you can examine the output directory
+
+hadoop fs -ls /user/hadoop/job_output
+
+# The main output is stored in part files, for us there is only one.
+
+hadoop fs -cat /user/hadoop/job_output/part-00000

@@ -1,0 +1,21 @@
+object(MonadPHP\Identity)#3 (1) {
+  ["value":protected]=>
+  int(33)
+}
+object(MonadPHP\Identity)#3 (1) {
+  ["value":protected]=>
+  int(33)
+}
+object(MonadPHP\Identity)#4 (1) {
+  ["value":protected]=>
+  int(66)
+}
+int(66)
+int(132)
+int(66)
+int(132)
+int(284)
+object(MonadPHP\Identity)#7 (1) {
+  ["value":protected]=>
+  int(284)
+}

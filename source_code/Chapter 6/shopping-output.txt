@@ -1,0 +1,23 @@
+Your shopping cart contains :
+
+Item - Quantity - Net Price Each - Total Price inc. Tax
+=======================================================
+
+Brie - 3 - 7 - 21.42 
+Shorts - 1 - 9.99 - 10.99 
+The Dictionary - 2 - 4.99 - 10.48 
+=======================================================
+
+Thank you for your order.
+USD 42,89 will be charged to your card when your order is dispatched.
+
+Tax Summary for this order :
+
+array(3) {
+  ["cheeses"]=>
+  float(0.42)
+  ["clothes"]=>
+  float(1)
+  ["books"]=>
+  float(0.5)
+}

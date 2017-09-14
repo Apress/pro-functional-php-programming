@@ -1,0 +1,23 @@
+
+# Install the libevent library and it header files
+
+sudo apt-get install libevent-2.0-5 libevent-dev
+
+# Ensure that PECL (which comes as part of the PEAR package)
+# and the phpize command which PECL needs are installed
+
+sudo apt-get install php-pear php-dev
+
+# Install the event extension
+
+sudo pecl install event
+
+# Finally make the extension available to the PHP CLI binary
+# by editing php.ini
+
+sudo nano /etc/php/7.0/cli/php.ini
+
+# and adding the following line in the section where other .so
+# extensions are include
+
+extension=event.so

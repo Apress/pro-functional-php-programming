@@ -1,0 +1,29 @@
+string(10) "static : 1"
+string(10) "global : 1"
+string(10) "param  : 2"
+string(10) "normal : 1"
+-----
+string(10) "static : 2"
+string(10) "global : 2"
+string(10) "param  : 2"
+string(10) "normal : 1"
+-----
+string(10) "static : 3"
+string(10) "global : 3"
+string(10) "param  : 2"
+string(10) "normal : 1"
+-----
+string(10) "static : 4"
+string(10) "global : 4"
+string(10) "param  : 2"
+string(10) "normal : 1"
+-----
+string(10) "static : 5"
+string(10) "global : 5"
+string(10) "param  : 2"
+string(10) "normal : 1"
+*****
+string(9) "static : "
+string(10) "global : 5"
+string(9) "param  : "
+string(9) "normal : "

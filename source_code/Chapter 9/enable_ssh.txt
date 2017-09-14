@@ -1,0 +1,18 @@
+
+# Log in at the console, the default credentials are:
+# bitnami:bitnami
+# you will be prompted to change your password the first
+# time you log in. You should change it, as everyone on your
+# local network will be able to access your VM and hence
+# able to SSH into it once SSH is enabled.
+
+# We need to move the SSH config into place
+
+sudo mv /etc/init/ssh.conf.back /etc/init/ssh.conf
+
+# and then start SSH.
+
+sudo start ssh
+
+# SSH will now be started automatically each time the VM is
+# started.

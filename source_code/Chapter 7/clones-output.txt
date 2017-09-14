@@ -1,0 +1,8 @@
+object(my_class)#4 (1) {
+  ["value":"my_class":private]=>
+  float(282.74333882308)
+}
+object(my_class)#3 (1) {
+  ["value":"my_class":private]=>
+  int(10)
+}

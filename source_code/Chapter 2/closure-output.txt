@@ -1,0 +1,2 @@
+PHP Notice:  Undefined variable: count in closure.php on line 7
+0

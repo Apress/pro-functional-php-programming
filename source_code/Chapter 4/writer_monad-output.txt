@@ -1,0 +1,8 @@
+-10°C
+Log :
+Array
+(
+    [0] => Doubling 6
+    [1] => Negating 12
+    [2] => Adding 2 to -12
+)

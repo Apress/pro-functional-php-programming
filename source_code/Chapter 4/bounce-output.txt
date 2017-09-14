@@ -1,0 +1,4 @@
+float(0.0254)
+float(0.07143)
+float(0.63219)
+PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 262144 bytes) in bounce.php on line 18

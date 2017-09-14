@@ -1,0 +1,18 @@
+a is 25
+We're doing procedural stuff here
+We're doing procedural stuff here
+We're doing procedural stuff here
+We're doing procedural stuff here
+We're doing procedural stuff here
+int(60)
+int(25)
+int(50)
+a is 50
+We're doing procedural stuff here
+We're doing procedural stuff here
+We're doing procedural stuff here
+We're doing procedural stuff here
+We're doing procedural stuff here
+int(110)
+int(25)
+int(0)

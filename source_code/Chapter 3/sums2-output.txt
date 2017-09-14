@@ -1,0 +1,44 @@
+-10°C
+
+	Closure Object
+(
+    [static] => Array
+        (
+            [chain] => Closure Object
+                (
+                    [static] => Array
+                        (
+                            [chain] => Closure Object
+                                (
+                                    [static] => Array
+                                        (
+                                            [chain] => identity
+                                            [function] => double
+                                        )
+
+                                    [parameter] => Array
+                                        (
+                                            [$input] => <required>
+                                        )
+
+                                )
+
+                            [function] => negate
+                        )
+
+                    [parameter] => Array
+                        (
+                            [$input] => <required>
+                        )
+
+                )
+
+            [function] => add_two
+        )
+
+    [parameter] => Array
+        (
+            [$input] => <required>
+        )
+
+)

@@ -1,0 +1,22 @@
+Generator Object
+(
+)
+Array
+(
+    [0] => 1
+    [1] => 2
+    [2] => 3
+    [3] => 4
+    [4] => 5
+    [5] => 6
+    [6] => 7
+    [7] => 8
+    [8] => 9
+    [9] => 10
+)
+Filled Standard Array : 528384 bytes 
+1st Filled SPLFixedArray : 0 bytes 
+2nd Filled SPLFixedArray : 163968 bytes 
+Empty Standard Array : 56 bytes 
+Empty SPLFixedArray : 163968 bytes 
+int(3334)
